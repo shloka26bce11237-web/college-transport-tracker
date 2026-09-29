@@ -68,6 +68,43 @@ Exiting the application
 Screenshots
 
 Screenshots demonstrating the working of the application are included in the screenshots folder.
+Screenshots
+Main Menu
+
+
+
+
+Bus Search
+
+
+
+
+Route and Stops
+
+
+
+
+Seat Availability
+
+
+
+
+Seat Booking
+
+
+
+
+Booking History
+
+
+
+
+Booking Cancellation
+
+
+
+
+Summary Report
 
 The screenshots cover:
 
